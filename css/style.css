@@ -1,0 +1,104 @@
+:root {
+    --firstcolor: #fac769;
+}
+
+.bg-headphone {
+    background-image: url(../imagaes/malte-wingen-381988-1920x1280.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.bussiness {
+    background-color: var(--firstcolor);
+}
+
+.font-style {
+    /*    font-weight: 400;*/
+    font-family: 'Rubik', sans-serif;
+    line-height: 1.7;
+    font-size: 18px;
+}
+
+.Icon {
+    margin: auto;
+    top: 20px;
+    left: 20px;
+
+}
+
+.font-style-2 {
+    font-family: 'Rubik', sans-serif;
+    padding-top: 10px;
+    font-size: 42px;
+
+    font-weight: 400;
+}
+
+.f-s {
+    font-size: 42px;
+    text-align: center;
+}
+
+span {
+    font-size: 56px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    color: orange;
+    margin-left: 10px;
+    opacity: .5;
+
+}
+
+.title {
+    position: absolute;
+    margin: auto;
+    top: 35px;
+    left: 10px;
+    font-weight: 700;
+}
+
+.card-tex {
+    font-family: 'Rubik', sans-serif;
+    font-weight: 700;
+    color: gray;
+}
+
+a {
+    color: #fac769;
+}
+
+.p1 {
+    font-size: 42px;
+}
+
+.u-l {
+    display: inline-block;
+
+}
+
+strong {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: orange;
+}
+
+.font-size {
+    font-size: 32px;
+}
+
+.color-gray {
+    color: darkgray;
+}
+
+.icon-style {
+    height: 35px;
+    padding-top: 5px;
+    text-align: center;
+    vertical-align: middle;
+    width: 35px;
+    font-size: 26px;
+    border-radius: 50%;
+    background-color: #fac769;
+    color: white;
+}
